@@ -2,12 +2,17 @@
 **/bin/
 **/obj/
 **/TestResults/
+coverage-report/
 
 # IDE
 .vs/
 .idea/
 *.user
 *.suo
+
+# OS files
+.DS_Store
+Thumbs.db
 
 # Local configuration and secrets
 .env
